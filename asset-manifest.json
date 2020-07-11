@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/spicy-app/mini-app/static/css/main.981f7211.chunk.css",
-    "main.js": "/spicy-app/mini-app/static/js/main.c39767f7.chunk.js",
-    "main.js.map": "/spicy-app/mini-app/static/js/main.c39767f7.chunk.js.map",
-    "runtime-main.js": "/spicy-app/mini-app/static/js/runtime-main.2e5b1c82.js",
-    "runtime-main.js.map": "/spicy-app/mini-app/static/js/runtime-main.2e5b1c82.js.map",
-    "static/css/2.86df01db.chunk.css": "/spicy-app/mini-app/static/css/2.86df01db.chunk.css",
-    "static/js/2.7763685a.chunk.js": "/spicy-app/mini-app/static/js/2.7763685a.chunk.js",
-    "static/js/2.7763685a.chunk.js.map": "/spicy-app/mini-app/static/js/2.7763685a.chunk.js.map",
-    "index.html": "/spicy-app/mini-app/index.html",
-    "precache-manifest.dfac9d76ade1a47f52bb0c045fb52cef.js": "/spicy-app/mini-app/precache-manifest.dfac9d76ade1a47f52bb0c045fb52cef.js",
-    "service-worker.js": "/spicy-app/mini-app/service-worker.js",
-    "static/css/2.86df01db.chunk.css.map": "/spicy-app/mini-app/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/spicy-app/mini-app/static/css/main.981f7211.chunk.css.map",
-    "static/js/2.7763685a.chunk.js.LICENSE.txt": "/spicy-app/mini-app/static/js/2.7763685a.chunk.js.LICENSE.txt",
-    "static/media/persik.png": "/spicy-app/mini-app/static/media/persik.4e1ec840.png"
+    "main.css": "/spicy-app/static/css/main.981f7211.chunk.css",
+    "main.js": "/spicy-app/static/js/main.41433251.chunk.js",
+    "main.js.map": "/spicy-app/static/js/main.41433251.chunk.js.map",
+    "runtime-main.js": "/spicy-app/static/js/runtime-main.5c14240a.js",
+    "runtime-main.js.map": "/spicy-app/static/js/runtime-main.5c14240a.js.map",
+    "static/css/2.86df01db.chunk.css": "/spicy-app/static/css/2.86df01db.chunk.css",
+    "static/js/2.5693b684.chunk.js": "/spicy-app/static/js/2.5693b684.chunk.js",
+    "static/js/2.5693b684.chunk.js.map": "/spicy-app/static/js/2.5693b684.chunk.js.map",
+    "index.html": "/spicy-app/index.html",
+    "precache-manifest.a0be37295f65f1d3647ee3c74cfc5182.js": "/spicy-app/precache-manifest.a0be37295f65f1d3647ee3c74cfc5182.js",
+    "service-worker.js": "/spicy-app/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/spicy-app/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/spicy-app/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.5693b684.chunk.js.LICENSE.txt": "/spicy-app/static/js/2.5693b684.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/spicy-app/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e5b1c82.js",
+    "static/js/runtime-main.5c14240a.js",
     "static/css/2.86df01db.chunk.css",
-    "static/js/2.7763685a.chunk.js",
+    "static/js/2.5693b684.chunk.js",
     "static/css/main.981f7211.chunk.css",
-    "static/js/main.c39767f7.chunk.js"
+    "static/js/main.41433251.chunk.js"
   ]
 }
