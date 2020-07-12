@@ -9,7 +9,7 @@ import Persik from './panels/Persik';
 import { Epic, Tabbar, TabbarItem, Panel, PanelHeader } from '@vkontakte/vkui';
 
 const App = () => {
-	const [activePanel, setActivePanel] = useState('home');
+	const [activePanel, setActivePanel] = useState('Register');
 	const [fetchedUser, setUser] = useState(null);
 	const [popout, setPopout] = useState(<ScreenSpinner size='large' />);
 
@@ -35,6 +35,7 @@ const App = () => {
 
 	return (
 		<View activePanel={activePanel} popout={popout}>
+			<Register id = "register" go = {go}></Register>
 			<Home id='home' fetchedUser={fetchedUser} go={go} />
 			<Persik id='persik' go={go} />
 		</View>
