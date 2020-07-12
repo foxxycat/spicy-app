@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0ec65a2a0b745a06365b4ce64545448",
+    "revision": "fbe17d61c6673ecf424fb57297489cf5",
     "url": "/spicy-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spicy-app/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "c0339c0c2bedfeb4db10",
+    "revision": "31d87e75ff10aa087d31",
     "url": "/spicy-app/static/css/main.981f7211.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spicy-app/static/js/2.61cc76d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c0339c0c2bedfeb4db10",
-    "url": "/spicy-app/static/js/main.3a6a0d33.chunk.js"
+    "revision": "31d87e75ff10aa087d31",
+    "url": "/spicy-app/static/js/main.49c3de79.chunk.js"
   },
   {
     "revision": "a663aed8933b488873f2",
