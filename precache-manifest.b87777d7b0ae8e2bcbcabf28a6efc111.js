@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fbe17d61c6673ecf424fb57297489cf5",
+    "revision": "b35a313537cd8791833ad573a2e5052b",
     "url": "/spicy-app/index.html"
   },
   {
-    "revision": "4aea515eec8ff6467c0e",
+    "revision": "b73020a308f55e9b2b83",
     "url": "/spicy-app/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "31d87e75ff10aa087d31",
+    "revision": "43b4a88018f12188b48b",
     "url": "/spicy-app/static/css/main.981f7211.chunk.css"
   },
   {
-    "revision": "4aea515eec8ff6467c0e",
-    "url": "/spicy-app/static/js/2.61cc76d7.chunk.js"
+    "revision": "b73020a308f55e9b2b83",
+    "url": "/spicy-app/static/js/2.21e287f8.chunk.js"
   },
   {
     "revision": "21ced859ea2b2d6b856d461ad6c2afed",
-    "url": "/spicy-app/static/js/2.61cc76d7.chunk.js.LICENSE.txt"
+    "url": "/spicy-app/static/js/2.21e287f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "31d87e75ff10aa087d31",
-    "url": "/spicy-app/static/js/main.49c3de79.chunk.js"
+    "revision": "43b4a88018f12188b48b",
+    "url": "/spicy-app/static/js/main.7a873ea8.chunk.js"
   },
   {
     "revision": "a663aed8933b488873f2",
