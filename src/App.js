@@ -7,12 +7,11 @@ import '@vkontakte/vkui/dist/vkui.css';
 // Импорт страниц
 import Home from './panels/Home';
 import Persik from './panels/Persik';
-import Register from './panels/Register';
 
 import { Epic, Tabbar, TabbarItem, Panel, PanelHeader } from '@vkontakte/vkui';
 
 const App = () => {
-	const [activePanel, setActivePanel] = useState('Register'); // сменил useStage был Home
+	const [activePanel, setActivePanel] = useState('Home');
 	const [fetchedUser, setUser] = useState(null);
 	const [popout, setPopout] = useState(<ScreenSpinner size='large' />);
 
@@ -38,7 +37,6 @@ const App = () => {
 
 	return (
 		<View activePanel={activePanel} popout={popout}>
-			<Register id = "register" go = {go}></Register>
 			<Home id='home' fetchedUser={fetchedUser} go={go} />
 			<Persik id='persik' go={go} />
 		</View>
