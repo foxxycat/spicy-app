@@ -37,23 +37,6 @@ const App = () => {
 		<View activePanel={activePanel} popout={popout}>
 			<Home id='home' fetchedUser={fetchedUser} go={go} />
 			<Persik id='persik' go={go} />
-		
-			<Epic tabbar = {
-				<Tabbar>
-					<TabbarItem
-						text = "лента"
-						data-story = "feed"
-						onClick = {this.onStoryChange}
-						selected = {this.state.activeStory === "feed"}>
-					</TabbarItem>
-				</Tabbar>
-			}>
-				<View id = "feed" activePanel = 'feed'>
-					<Panel id = "feed">
-						<PanelHeader>Лента</PanelHeader>
-					</Panel>
-				</View>
-			</Epic>
 		</View>
 	);
 }
